@@ -13,3 +13,9 @@ d
 dd
 
 d
+
+<ins>yo</ins>
+
+<del>lo</del>
+
+d
